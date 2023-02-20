@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hint_usd">USA Dollar</string>
+    <string name="hint_eur">Euro</string>
+    <string name="hint_irr">Iran Rial</string>
+    <string name="hint_cad">Canada Dollar</string>
+    <string name="hint_gbp">Great Britain Pound</string>
+    <string name="hint_aed">United Arab Emirates Dirham</string>
+    <string name="error">Number not valid!</string>
+</resources>
